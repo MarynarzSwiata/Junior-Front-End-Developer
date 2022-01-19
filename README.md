@@ -46,7 +46,7 @@
 - Business Intelligence (BI)
 - Business Processes (CRM, ERP, DMS)
 
-# PLanned to learn in future [each on different Repositorium]:
+# Planned to learn in future [each on different Repositorium]:
 
 - Python (pandas, seaborn, matplotlib, webscrapping: Beautiful Soup, Scrapy)
 - R (shiny)
