@@ -1,4 +1,4 @@
-# Welcome to MarynarzSwiata Junior FrontEnd Developer Road Page
+# MarynarzSwiata Junior FrontEnd Developer Road Page
 
 ## WEBPAGES 
 
