@@ -1,7 +1,8 @@
 # MarynarzSwiata Junior FrontEnd Developer Road Page
 
-## WEBPAGES 
+## WEB PAGES 
 
++ <https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki>
 + <https://marynarzswiata.github.io/Junior-Front-End-Developer/>
 + <https://patrick.marynarzswiata.pl>
 
@@ -26,7 +27,6 @@
 ## Under process of learning:
 
 + Frontend Development (HTML5, CSS3, JavaScript ES6, Wordpress)
-+ HTML5 + CSS3
 + Bootstrap
 + jQuery
 + Node.JS
