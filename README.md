@@ -1,12 +1,11 @@
 # MarynarzSwiata Junior FrontEnd Developer Road Page
 
-## WIKI PAGES - All my road are there
+## FILE PAGES - All my road are there
 
 1. [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/blob/main/INTERNET/INTERNET.md)
 
 ## WEB PAGES
 
-- <https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki>
 - <https://marynarzswiata.github.io/Junior-Front-End-Developer/>
 - <https://patrick.marynarzswiata.pl>
 
