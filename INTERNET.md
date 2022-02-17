@@ -2,6 +2,11 @@
 # INTERNET (rev 0.1 | 17/02/2022)
 ***The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.***
 
+
+**Always check my wiki page:**
+<https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/INTERNET>
+
+
 ## ANKI CARDS
 **In progress... => {*after completion of each section there will be a anki deck collection*}**
 
