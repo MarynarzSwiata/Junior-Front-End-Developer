@@ -6,21 +6,21 @@
 
 - Learning process as per:
 
-* https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
-* https://www.udemy.com/course/the-complete-javascript-course/
+* https://github.com/FrontendMasters/front-end-handbook-2019
+* https://frontendmasters.com/guides/learning-roadmap/
 
-# Projects plan (Seafarer Data Profile Website Application)
+# Main Project plan (Seafarer Data Profile Website Application)
 
-- Using technology of HTML, CSS, JS
+- Technology of HTML, CSS, JS
 - Storing a data of seafarer (full name, birthday, photo, etc )
 - login panel
 - documents expiration info
-- storing first in txt files separately or maybe database
+- storing data in database
 
 # Under process of learning [each on different Repositorium]:
 
-- Frontend Development (HTML, CSS, JS, Wordpress) [TO BE DIVIDED INTO SECTIONS]
-- HTML 5 + CSS 3
+- Frontend Development (HTML, CSS, JS, Wordpress) [TO BE DIVIDED INTO SEPARATE FILES]
+- HTML5 + CSS3
 - Bootstrap
 - JavaScript ES6
 - jQuery
@@ -60,5 +60,3 @@
 - Programming: HTML + CSS + JS + WORDPRESS (Frontend), UX/UI Design.
 - Computer Science: System Administration, Advanced Microsoft Excel Functions, Problem-solving and troubleshooting, Tech support, Adobe Photoshop, Ilustrator, Audition, Audacity, DaVinci Resolve, Windows, Linux.
 - Soft Skills: Communication and public speaking, Clear writing and report writing, Critical thinking, Attention to detail, Training and instructing, Organization, Teamwork & collaboration, Creativity, Leadership, Project management, Decision-making, Time management, Efficiency.
-
-# This Repo contains exercies of:
