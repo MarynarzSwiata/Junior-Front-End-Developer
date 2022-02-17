@@ -9,7 +9,7 @@
 
 ## WIKI PAGES
 
-+ [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/1.-INTERNET)
+1. [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/1.-INTERNET)
 
 ## Development Learning Process
 
