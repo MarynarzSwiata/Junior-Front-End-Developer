@@ -1,15 +1,14 @@
 # MarynarzSwiata Junior FrontEnd Developer Road Page
 
+## WIKI PAGES - All my road are there
+
+1. [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/1.-INTERNET)
+
 ## WEB PAGES 
 
 + <https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki>
 + <https://marynarzswiata.github.io/Junior-Front-End-Developer/>
 + <https://patrick.marynarzswiata.pl>
-
-
-## WIKI PAGES
-
-1. [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/1.-INTERNET)
 
 ## Development Learning Process
 
