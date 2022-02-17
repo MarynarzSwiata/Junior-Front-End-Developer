@@ -10,8 +10,6 @@
 
 + [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/blob/main/INTERNET.md)
 
-
-
 ## Development Learning Process
 
 + <https://github.com/FrontendMasters/front-end-handbook-2019>
