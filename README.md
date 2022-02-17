@@ -7,9 +7,9 @@
 + <https://patrick.marynarzswiata.pl>
 
 
-## LINKS
+## WIKI PAGES
 
-+ [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/blob/main/INTERNET.md)
++ [INTERNET](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/wiki/1.-INTERNET)
 
 ## Development Learning Process
 
