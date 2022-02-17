@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## Welcome to MarynarzSwiata Junior FrontEnd Developer Road Page
 
-You can use the [editor on GitHub](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# website: https://patrick.marynarzswiata.pl
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Development Learning Process
 
-### Markdown
+- Learning process as per:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* https://github.com/FrontendMasters/front-end-handbook-2019
+* https://frontendmasters.com/guides/learning-roadmap/
 
-```markdown
-Syntax highlighted code block
+# Main Project plan (Seafarer Data Profile Website Application)
 
-# Header 1
-## Header 2
-### Header 3
+- Technology of HTML, CSS, JS
+- Storing a data of seafarer (full name, birthday, photo, etc )
+- login panel
+- documents expiration info
+- storing data in database
 
-- Bulleted
-- List
+# Under process of learning [each on different Repositorium]:
 
-1. Numbered
-2. List
+- Frontend Development (HTML, CSS, JS, Wordpress) [TO BE DIVIDED INTO SEPARATE FILES]
+- HTML5 + CSS3
+- Bootstrap
+- JavaScript ES6
+- jQuery
+- Node.JS
+- VUE.JS
+- React
+- Angular
+- Git & GitHub (basics, clone, push, pull, log, rm, restore, fork, branches, additional expressions like --oneline and so)
+- Agile: Scrum / Kanban
 
-**Bold** and _Italic_ and `Code` text
+# Other skills [each on different Repositorium]:
 
-[Link](url) and ![Image](src)
-```
+- Analytics (Google Analytics, Facebook Analytics)
+- Presentation Skills (PowerPoint, Prezi, Active Presenter, Storyline 3)
+- Statistics & probability Knowledge
+- Critical Thinking
+- Excel Advanced (mayby VS in future)
+- Markdown Code
+- Marketing (Google Ads, Facebook Ads, SEO/SEM, Copywriting)
+- Adobe (Lightroom, Photoshop, Illustrator, Premiere Pro)
+- System administration (Windows, Linux, SharePoint)
+- Survey creation
+- Business Intelligence (BI)
+- Business Processes (CRM, ERP, DMS)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Planned to learn in future [each on different Repositorium]:
 
-### Jekyll Themes
+- Python (pandas, seaborn, matplotlib, webscrapping: Beautiful Soup, Scrapy)
+- R (shiny)
+- Glob expression (https://mincong.io/2019/04/16/glob-expression-understanding/)
+- Structured Query Language (SQL) (MySQL, Postgree)
+- Tableau, Jupyter Notebook, Power BI, Canva Graph Maker, Grafana.com, Freeboard.io, Dashbuilder.org, Google Charts, Infogram, Chartblocks, Datawrapper, D3.js, Visme, RAWGraphs, Fusion Tables, flourish,
+- Data Visualization (Time Series, Bar Charts, Combo Charts, Pie Charts, Tables, Geo Map, Scorecard, Scatter Charts, Bullet Charts, Area Chart, Text & Images)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarynarzSwiata/Junior-Front-End-Developer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# CV/RESUME - Technical (IT) Skills & Soft Skills
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Programming: HTML + CSS + JS + WORDPRESS (Frontend), UX/UI Design.
+- Computer Science: System Administration, Advanced Microsoft Excel Functions, Problem-solving and troubleshooting, Tech support, Adobe Photoshop, Ilustrator, Audition, Audacity, DaVinci Resolve, Windows, Linux.
+- Soft Skills: Communication and public speaking, Clear writing and report writing, Critical thinking, Attention to detail, Training and instructing, Organization, Teamwork & collaboration, Creativity, Leadership, Project management, Decision-making, Time management, Efficiency.
