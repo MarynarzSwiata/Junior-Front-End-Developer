@@ -25,6 +25,8 @@
 ## Under process of learning:
 
 - Frontend Development (HTML5, CSS3, JavaScript ES6, Wordpress)
+- SSAS/LESS/TAILWIND CSS
+- Flex/Grid
 - Bootstrap
 - jQuery
 - Node.JS
